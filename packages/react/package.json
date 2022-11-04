@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "build": "tsup src/index.ts --format esm,cjs --dts",
-    "dev": "tsup src/index.ts --format esm,cjs --dts --watch"
+    "dev": "tsup src/index.ts --format esm,cjs --dts --watch",
+    "lint": "eslint src/**/*.ts* --fix"
   },
   "keywords": [],
   "author": "",
@@ -13,6 +14,7 @@
   "devDependencies": {
     "@ignite-ui/tokens": "*",
     "@ignite-ui/ts-config": "*",
+    "@ignite-ui/eslint-config": "*",
     "tsup": "^6.3.0",
     "typescript": "^4.8.4"
   }
