@@ -1,20 +1,20 @@
 import type { StoryObj, Meta } from '@storybook/react'
-import { Text, TextProps } from '@ignite-ui/react'
+import { TextInput, TextInputProps } from '@ignite-ui/react'
 
 export default {
-  title: 'Typography/Text',
-  component: Text,
+  title: 'Typography/TextInput',
+  component: TextInput,
   args: {
     children:
       'Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem quo odio voluptatibus quisquam earum. Consequatur reprehenderit repellat quas deleniti pariatur veniam, voluptatibus recusandae provident. Reprehenderit soluta eveniet ipsa suscipit et.',
   },
-} as Meta<TextProps>
+} as Meta<TextInputProps>
 
-export const Primary: StoryObj<TextProps> = {}
+export const Primary: StoryObj<TextInputProps> = {}
 
-export const Strong: StoryObj<TextProps> = {
+export const Strong: StoryObj<TextInputProps> = {
   args: {
-    children: 'Strong Text',
+    children: 'Strong TextInput',
     as: 'strong',
   },
 }
