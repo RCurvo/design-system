@@ -1,5 +1,5 @@
 {
-  "name": "@ignite-ui/tokens",
+  "name": "@renan-ui/tokens",
   "version": "1.0.0",
   "description": "",
   "main": "./dist/index.js",
@@ -13,8 +13,8 @@
   "author": "",
   "license": "MIT",
   "devDependencies": {
-    "@ignite-ui/eslint-config": "*",
-    "@ignite-ui/ts-config": "*",
+    "@renan-ui/eslint-config": "*",
+    "@renan-ui/ts-config": "*",
     "tsup": "^6.3.0",
     "typescript": "^4.8.4"
   }
