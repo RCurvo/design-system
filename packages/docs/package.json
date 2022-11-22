@@ -28,7 +28,7 @@
   },
   "dependencies": {
     "@renan-ui/eslint-config": "*",
-    "@renan-ui/react": "^1.0.0",
+    "@renan-ui/react": "^2.0.0",
     "@renan-ui/tokens": "*",
     "@renan-ui/ts-config": "*",
     "@storybook/addon-a11y": "^6.5.13",
