@@ -1,0 +1,2 @@
+import{A as t}from"./index.4013f09d.js";import"./index.99c24eb9.js";import"./iframe.66836e1a.js";import"./index.dd46636f.js";import"./jsx-runtime.e521925c.js";const c={title:"Data display/Avatar",component:t,args:{src:"https://github.com/Rcurvo.png",alt:"Renan Curvo"}},m={},p={args:{src:void 0}},n=["Primary","WithFallback"];export{m as Primary,p as WithFallback,n as __namedExportsOrder,c as default};
+//# sourceMappingURL=Avatar.stories.acae5656.js.map
