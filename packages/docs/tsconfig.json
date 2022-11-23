@@ -1,5 +1,5 @@
 {
-    "extends": "@renan-ui/ts-config/react.json",
+    "extends": "@ignite-ui/ts-config/react.json",
     "include": [
         "src"
 , "../react/src/components/Avatar"    ]
