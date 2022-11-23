@@ -1,11 +1,4 @@
-# COMPONENTS
+# Design System
 
-- [ ] Text
-- [ ] Heading
-- [ ] Box
-- [ ] Button
-- [ ] TextInput
-- [ ] TextArea
-- [ ] Checkbox
-- [ ] Avatar
-- [ ] MultiStep
+Esse Design System foi feito usando o Storybook e contém diversos elementos para serem usados em projetos diversos
+
